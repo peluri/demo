@@ -20,6 +20,6 @@
     <preference name="target-device"    value="universal" />
     <preference name="fullscreen"       value="false" />
 
-    <icon src="Icon.png" />
+    <icon src="www/Icon.png" />
 
 </widget>
